@@ -1,3 +1,6 @@
+#
+# system.prop
+#
 service.adb.root=1
 wifi.interface=wlan0
 persist.mtk.aee.aed=on
